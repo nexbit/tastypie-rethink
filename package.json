@@ -1,6 +1,6 @@
 {
   "name": "tastypie-rethink",
-  "version": "2.0.1",
+  "version": "3.0.0-nexbit",
   "description": "Tastypie resource for a rethinkdb backend using Thinky",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/esatterwhite/tastypie-rethink.git"
+    "url": "git+https://github.com/nexbit/tastypie-rethink.git"
   },
   "keywords": [
     "tastypie",
@@ -21,12 +21,12 @@
     "rest",
     "api"
   ],
-  "author": "Eric Satterwhite <esatterwhite@wi.rr.com>",
+  "author": "Paolo Furini",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/esatterwhite/tastypie-rethink/issues"
   },
-  "homepage": "https://github.com/esatterwhite/tastypie-rethink#readme",
+  "homepage": "https://github.com/nexbit/tastypie-rethink.git#readme",
   "dependencies": {
     "boom": "^2.8.0",
     "debug": "^2.2.0",
