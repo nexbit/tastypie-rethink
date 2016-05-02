@@ -35,14 +35,14 @@
     "qs": "^4.0.0"
   },
   "peerDependencies": {
-    "tastypie": "^2.0.0"
+    "tastypie": "^2.1.6"
   },
   "devDependencies": {
-    "hapi": "^8.8.0",
+    "hapi": "^13.3.0",
     "joi": "^6.5.0",
     "mocha": "^2.2.5",
     "should": "^7.0.2",
-    "tastypie": "^2.0.0",
-    "thinky": "^2.0.8"
+    "tastypie": "^2.1.6",
+    "thinky": "^2.3.2"
   }
 }
